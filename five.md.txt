@@ -1,2 +1,2 @@
-_**Search**_	
-* Search the working directory for foo()	>git grep "foo()"
+**Search**	
+Search the working directory for foo()	>git grep "foo()"

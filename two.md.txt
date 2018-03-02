@@ -1,4 +1,4 @@
-**Git commands**
+_**Git commands**_
 | Task         | 		Notes                                                   | 			commands |
 | ------------- |		:-------------	----------------------------------------	:| 	      ----------------------------:|
 | push | 	                Send changes to the master branch of your remote repository | 	     git push origin master |
